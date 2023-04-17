@@ -1,0 +1,75 @@
+table,
+th,
+td {
+  border: 2.5px solid rgb(148, 32, 32);
+  margin-left: auto;
+  margin-right: auto;
+
+  border-collapse: collapse;
+  align-content: stretch;
+}
+
+div {
+  background-color: rgba(246, 250, 209, 0.944);
+  width: 900px;
+  border: 8px solid brown;
+  padding: 100px;
+  margin: 100px;
+}
+
+#srNo {
+  margin-left: -80.5px;
+  margin-top: -90px;
+  color: rgb(233, 41, 41);
+}
+
+#qrCode {
+  text-align: right;
+}
+
+div h2 {
+  text-align: center;
+  color: brown;
+}
+
+#uniInfo {
+  text-align: center;
+  color: brown;
+}
+
+div h1 {
+  text-align: center;
+  color: rgb(182, 40, 40);
+}
+
+.width100 {
+  width: 100%;
+}
+
+.candidateAndCourseName {
+  width: 50%;
+  color: brown;
+}
+
+.Brown {
+  color: brown;
+}
+
+#w20clrBrown {
+  width: 20%;
+  color: brown;
+}
+
+#w30clrBrown {
+  width: 20%;
+  color: brown;
+}
+
+#w100ClrBrown {
+  color: brown;
+  width: 100%;
+}
+
+.subjectInfo{
+    text-align: center;
+}
